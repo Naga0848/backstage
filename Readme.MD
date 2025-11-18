@@ -67,4 +67,11 @@ GitHub Actions: Commonly used for CI/CD pipelines
 
         Copilot link -- https://copilot.microsoft.com/chats/zsCTen1X2KmmcqYBZEmBd
 
+#### 2) https://backstage.io/docs/auth/guest/provider/
+
+        Copilot link -- https://copilot.microsoft.com/chats/zsCTen1X2KmmcqYBZEmBd
+
+#### 3) https://backstage.io/docs/getting-started/config/database/
+
+        Copilot link -- https://copilot.microsoft.com/chats/zsCTen1X2KmmcqYBZEmBd
     
