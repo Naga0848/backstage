@@ -59,9 +59,7 @@ GitHub Actions: Commonly used for CI/CD pipelines
 ![alt text](images/backstage-tech-stack.png)
 
 
-## Understanding the Dockerfile creation  
-
-    https://backstage.io/docs/deployment/docker
+## Understanding the Dockerfile creation   https://backstage.io/docs/deployment/docker 
 
 ### understanding the sub-links which are part of the Dockerfile creation link
 
